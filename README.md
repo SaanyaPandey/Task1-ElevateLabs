@@ -29,7 +29,7 @@ A modern, clean and fully responsive Landing Page built using HTML5, CSS3 and Va
 
 <hr>
 
-<h2>🛠️ Technologies Used</h2>
+<h2>Technologies Used</h2>
 
 <ul>
   <li>HTML5</li>
