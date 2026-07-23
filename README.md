@@ -1,7 +1,7 @@
 # Task1-ElevateLabs
 This is first task of ELEVATE LABS given to us on 23rd July,2026.
 
-<h1 align="center">🌸 Saanya - Responsive Landing Page</h1>
+<h1 align="center">Saanya - Responsive Landing Page</h1>
 
 <p align="center">
 A modern, clean and fully responsive Landing Page built using HTML5, CSS3 and Vanilla JavaScript.
@@ -9,7 +9,7 @@ A modern, clean and fully responsive Landing Page built using HTML5, CSS3 and Va
 
 <hr>
 
-<h2>🚀 Features</h2>
+<h2>Features</h2>
 
 <ul>
   <li>Responsive Design (Desktop, Tablet & Mobile)</li>
@@ -42,7 +42,7 @@ A modern, clean and fully responsive Landing Page built using HTML5, CSS3 and Va
 
 <hr>
 
-<h2>📁 Project Structure</h2>
+<h2> Project Structure</h2>
 
 <pre>
 Saanya-Landing-Page/
@@ -70,7 +70,7 @@ Saanya-Landing-Page/
 <hr>
 
 
-<h2>💻 How to Run This Project Locally</h2>
+<h2>How to Run This Project Locally</h2>
 
 <ol>
 <li>Clone or Download this repository.</li>
@@ -92,7 +92,7 @@ git clone https://github.com/SaanyaPandey/Task1-ElevateLabs.git
 
 <hr>
 
-<h2>📱 Responsive Design</h2>
+<h2>Responsive Design</h2>
 
 <p>
 This website is fully responsive and optimized for:
@@ -107,7 +107,7 @@ This website is fully responsive and optimized for:
 
 <hr>
 
-<h2>📂 About the Assets Folder</h2>
+<h2>About the Assets Folder</h2>
 
 <p>The <b>assets</b> folder stores all the static files used in this project, including:</p>
 
@@ -127,7 +127,7 @@ Keeping all images and media inside a dedicated <b>assets</b> folder makes the p
 
 <hr>
 
-<h2>✨ Future Improvements</h2>
+<h2>Future Improvements</h2>
 
 <ul>
 <li>Dark Mode</li>
@@ -140,7 +140,7 @@ Keeping all images and media inside a dedicated <b>assets</b> folder makes the p
 
 <hr>
 
-<h2>👩‍💻 Author</h2>
+<h2>Author</h2>
 
 <p>
 <b>Saanya Pandey</b><br>
