@@ -42,28 +42,6 @@ A modern, clean and fully responsive Landing Page built using HTML5, CSS3 and Va
 
 <hr>
 
-<h2> Project Structure</h2>
-
-<pre>
-Saanya-Landing-Page/
-│
-├── index.html
-├── style.css
-├── README.md
-│
-└── assets/
-    ├── logo.png
-    ├── hero-image.png
-    ├── about-image.png
-    ├── service1.png
-    ├── service2.png
-    ├── service3.png
-    ├── cursor.png
-    ├── home.png
-    ├── about.png
-    ├── contact.png
-    └── mobile-view.png
-</pre>
 
 <p><b>Note:</b> The assets folder contains all images, icons, logos, screenshots, custom cursor files and other media resources used in the project.</p>
 
